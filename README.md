@@ -46,6 +46,10 @@ https://www.datacamp.com/
 - https://developer.mozilla.org/en-US/
 - https://caniuse.com/
 
+## Editors
+- https://www.jetbrains.com/
+- https://code.visualstudio.com/
+
 ## Practise
 - https://www.hackerrank.com/
 - https://www.codewars.com/
